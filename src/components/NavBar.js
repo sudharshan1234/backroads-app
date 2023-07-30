@@ -1,4 +1,4 @@
-import logo from "../images/logo.svg";
+import logo from "../images/WanderlustLogo.png";
 import PageLinks from "./PageLinks";
 import PageIcons from "./PageIcons";
 function NavBar() {

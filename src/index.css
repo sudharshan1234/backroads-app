@@ -71,6 +71,10 @@ img:not(.nav-logo) {
   display: block;
 }
 
+.nav-logo {
+  height: 4rem;
+}
+
 h1,
 h2,
 h3,
