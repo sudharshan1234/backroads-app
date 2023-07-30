@@ -2,10 +2,10 @@ function Hero() {
   return (
     <section className='hero' id='home'>
       <div className='hero-banner'>
-        <h1>backroads app</h1>
+        <h1>Wanderlust Excursions</h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae
-          explicabo debitis est autem dicta.
+          offers unforgettable global tours, inspiring adventurous exploration
+          with personalized itineraries and expert guides.
         </p>
         <a href='#tours' className='btn hero-btn'>
           explore tours

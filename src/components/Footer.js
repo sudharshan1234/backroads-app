@@ -6,7 +6,7 @@ function Footer() {
       <PageLinks type='footer'></PageLinks>
       <PageIcons type='footer'></PageIcons>
       <p className='copyright'>
-        copyright &copy; Backroads travel tours company
+        copyright &copy; Wanderlust Excursion Company
         <span id='date'>{new Date().getFullYear()}</span> all rights reserved
       </p>
     </footer>

@@ -12,16 +12,25 @@ function About() {
         <article className='about-info'>
           <h3>explore the difference</h3>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur
-            quisquam harum nam cumque temporibus explicabo dolorum sapiente odio
-            unde dolor?
+            At Wanderlust Excursion, we are fervent believers in the power of
+            travel to inspire, transform, and create lasting memories. Our
+            mission is to provide you with exceptional travel experiences that
+            go beyond the ordinary. We meticulously craft each journey, blending
+            adventure, culture, and exploration to ensure you embark on a truly
+            unforgettable expedition.
           </p>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur
-            quisquam harum nam cumque temporibus explicabo dolorum sapiente odio
-            unde dolor?
+            With a team of passionate travel enthusiasts and seasoned local
+            guides, we are dedicated to curating personalized itineraries that
+            cater to your unique interests and preferences. Whether you crave
+            adrenaline-pumping escapades, cultural immersions, or serene
+            getaways, our expertly guided tours promise to ignite your
+            wanderlust and leave you with cherished moments that last a
+            lifetime. Join us as we unlock the world's hidden treasures and
+            invite you to unleash your inner adventurer with Wanderlust
+            Excursion.
           </p>
-          <a href='#about' className='btn'>
+          <a href='#' className='btn'>
             read more
           </a>
         </article>
